@@ -41,7 +41,7 @@ For now, first three chapters tayo
 * Philippine Computing Society Congress
 * make your adviser co-author if they contributed greatly in your work
 
-### What advisers want to hear
+#### What advisers want to hear
 * This is what I've done so far
 * I had a problem and this is what I did
 * What do you think of this approach
