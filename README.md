@@ -33,16 +33,16 @@ Adobe Acrobat can search across pdf documents provided you all have the copies i
 
 To begin searching across documents, open Adobe Acrobat and follow the steps below.
 
-1. **NOTE:** Only follow this if your Adobe Acrobat UI looks like this:
-![New updated UI](/tutorialAssets/AANewUI.png)
-Go to `Menu -> Disable new Acrobat Reader`
-![disabling new UI](/tutorialAssets/getOutOfNew.png)\
-It should now look like this
-![old UI](/tutorialAssets/AAOldUI.png)
+1. **NOTE:** Only follow this if your Adobe Acrobat UI looks like this: \
+![New updated UI](/tutorialAssets/AANewUI.png) \
+Go to `Menu -> Disable new Acrobat Reader` \
+![disabling new UI](/tutorialAssets/getOutOfNew.png) \
+It should now look like this \
+![old UI](/tutorialAssets/AAOldUI.png) 
 
-2. Go to `Edit -> Advanced search`
-3. In the window that pops up, click the `All PDF Documents in` option and set the file path to the `sample papers` folder *(will change this once we actually get to typing)*
-![popUP choose path](/tutorialAssets/searchHere.png)
+2. Go to `Edit -> Advanced search` 
+3. In the window that pops up, click the `All PDF Documents in` option and set the file path to the `sample papers` folder *(will change this once we actually get to typing)* \
+![popUP choose path](/tutorialAssets/searchHere.png) \
 4. Happy searching! 
 
 # Github issues and milestones
