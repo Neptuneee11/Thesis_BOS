@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ThesisOriNotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bac148455d3e70c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#lexical-class-marker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c5e7845c06b157d",
+  "active": "bac148455d3e70c9",
   "lastOpenFiles": [
+    "related literature probably/POS Tagging approaches, a comparison.md",
+    "related literature probably/POS_Tagging_Approaches_A_Comparison.pdf",
+    "ThesisOriNotes.md",
+    "README.md",
     "sample papers/2401.05995.pdf",
-    "tutorialAssets/AANewUI.png",
-    "README.md"
+    "tutorialAssets/AANewUI.png"
   ]
 }
