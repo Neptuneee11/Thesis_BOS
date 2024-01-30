@@ -6,34 +6,16 @@
       {
         "id": "a1404e2d3bd7f82b",
         "type": "tabs",
-        "dimension": 48.328025477707,
         "children": [
           {
-            "id": "8c5e7845c06b157d",
+            "id": "21da4cb72cc7644e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "related literature probably/POS Tagging approaches, a comparison.md",
+                "file": "Consultation - Jan. 30, 2024.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8d7b128139ffb337",
-        "type": "tabs",
-        "dimension": 51.671974522293,
-        "children": [
-          {
-            "id": "bac148455d3e70c9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "related literature probably/POS_Tagging_Approaches_A_Comparison.pdf"
               }
             }
           }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature probably/POS Tagging approaches, a comparison.md",
+                "file": "Consultation - Jan. 30, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature probably/POS Tagging approaches, a comparison.md",
+                "file": "Consultation - Jan. 30, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature probably/POS Tagging approaches, a comparison.md"
+                "file": "Consultation - Jan. 30, 2024.md"
               }
             }
           }
@@ -164,11 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c5e7845c06b157d",
+  "active": "21da4cb72cc7644e",
   "lastOpenFiles": [
-    "socialComputingOri",
-    "related literature probably/POS_Tagging_Approaches_A_Comparison.pdf",
     "related literature probably/POS Tagging approaches, a comparison.md",
+    "Consultation - Jan. 30, 2024.md",
+    "related literature probably/POS_Tagging_Approaches_A_Comparison.pdf",
+    "infodemiology and infoveillance.pdf",
+    "infodemiology and infoveillance.pdf.crdownload",
+    "Sequence_Synopsis_Optimize_Visual_Summary_of_Temporal_Event_Data.pdf",
+    "Sequence_Synopsis_Optimize_Visual_Summary_of_Temporal_Event_Data.pdf.crdownload",
+    "socialComputingOri",
     "ThesisOriNotes.md",
     "README.md",
     "sample papers/2401.05995.pdf",
