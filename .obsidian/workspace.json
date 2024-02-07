@@ -11,15 +11,36 @@
             "id": "21da4cb72cc7644e",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf"
+              }
+            }
+          },
+          {
+            "id": "6d5591b85e2b155c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf"
+              }
+            }
+          },
+          {
+            "id": "9e073ffcb40d628d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Consultation - Jan. 30, 2024.md",
+                "file": "Questions for Feb 13, 2024 consultation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.5
   },
   "right": {
     "id": "3bc49f768e871300",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consultation - Jan. 30, 2024.md",
+                "file": "Questions for Feb 13, 2024 consultation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consultation - Jan. 30, 2024.md",
+                "file": "Questions for Feb 13, 2024 consultation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consultation - Jan. 30, 2024.md"
+                "file": "Questions for Feb 13, 2024 consultation.md"
               }
             }
           }
@@ -146,11 +167,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21da4cb72cc7644e",
+  "active": "9e073ffcb40d628d",
   "lastOpenFiles": [
-    "related literature probably/POS Tagging approaches, a comparison.md",
+    "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
+    "Questions for Feb 13, 2024 consultation.md",
+    "related literature actual/POS Tagging approaches, a comparison.md",
+    "related literature actual/POS_Tagging_Approaches_A_Comparison.pdf",
+    "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Even Data.pdf",
+    "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Even Data.pdf.crdownload",
     "Consultation - Jan. 30, 2024.md",
-    "related literature probably/POS_Tagging_Approaches_A_Comparison.pdf",
     "infodemiology and infoveillance.pdf",
     "infodemiology and infoveillance.pdf.crdownload",
     "Sequence_Synopsis_Optimize_Visual_Summary_of_Temporal_Event_Data.pdf",
