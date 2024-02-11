@@ -33,14 +33,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions for Feb 13, 2024 consultation.md",
+                "file": "ThesisOriNotes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Questions for Feb 13, 2024 consultation.md",
+                "file": "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Questions for Feb 13, 2024 consultation.md",
+                "file": "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions for Feb 13, 2024 consultation.md"
+                "file": "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf"
               }
             }
           }
@@ -167,24 +167,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5279d66e5505cee4",
+  "active": "6d5591b85e2b155c",
   "lastOpenFiles": [
+    "related literature probably/2304.13989.pdf",
+    "related literature probably/2304.13989.pdf.crdownload",
+    "related literature probably/2402.02449.pdf",
+    "related literature probably/2402.02449.pdf.crdownload",
+    "ThesisOriNotes.md",
+    "README.md",
+    "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
     "related literature probably/pranckevicius2016.pdf",
     "related literature probably/posTaggerEvaluation.pdf",
     "related literature probably/hybrid pos tagger.pdf",
     "related literature probably/acula2018.pdf",
     "related literature probably/Sequence_Synopsis_Optimize_Visual_Summary_of_Temporal_Event_Data.pdf",
     "related literature probably/5384-16133-1-PB.pdf",
-    "related literature probably/3275-8305-1-PB.pdf",
-    "Consult Notes - 02 - 03",
-    "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
     "Questions for Feb 13, 2024 consultation.md",
     "related literature actual/POS Tagging approaches, a comparison.md",
-    "related literature actual/POS_Tagging_Approaches_A_Comparison.pdf",
-    "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Even Data.pdf",
     "Consultation - Jan. 30, 2024.md",
-    "ThesisOriNotes.md",
-    "README.md",
     "tutorialAssets/AANewUI.png"
   ]
 }
