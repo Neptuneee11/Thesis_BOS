@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"7ee986dd6e67364b","type":"group","x":-200,"y":-1120,"width":1800,"height":1378,"label":"POS tagging elements and nuances"},
+		{"id":"203dd467a4f55ebf","type":"group","x":1120,"y":-1640,"width":534,"height":468,"color":"6","label":"Proposal Title"},
+		{"id":"ea8a9cffbb695c8f","type":"text","text":"# Using POS taggers to observe the changing sentence patterns of news articles and news broadcast reports before, during, and after The Duterte administration","x":1140,"y":-1620,"width":494,"height":260,"color":"6"},
+		{"id":"6a6bc5d939762b94","type":"text","text":"\tJust so I can see which fields need more research so I can give out more jobs easily","x":1262,"y":-1360,"width":250,"height":168},
+		{"id":"904c2a16ffa8bab0","type":"text","text":"# Hidden Markov Model","x":-128,"y":-665,"width":370,"height":64},
+		{"id":"39fba7ce9e6ba574","type":"text","text":"# Conditional Random Fields","x":312,"y":-673,"width":449,"height":72},
+		{"id":"751bcd60a188aff6","type":"text","text":"# Code mixing \n\nCode mixed social media text","x":943,"y":-1100,"width":250,"height":183},
+		{"id":"95160eec27ad8963","type":"text","text":"# Hurdles","x":943,"y":-741,"width":250,"height":60},
+		{"id":"7a7b2432d48aad9b","type":"text","text":"# POS-Tagging","x":952,"y":-342,"width":250,"height":60},
+		{"id":"9756d07879ca3464","type":"text","text":"# LSTM","x":511,"y":-77,"width":250,"height":54},
+		{"id":"c29bad026f4e256d","type":"text","text":"# Lemmatizers","x":1330,"y":178,"width":250,"height":60},
+		{"id":"fedc9b3a2e97c922","type":"text","text":"# Support Vector Machine","x":-180,"y":-437,"width":422,"height":50},
+		{"id":"074e8724ecee58bf","type":"text","text":"# Methods","x":472,"y":-337,"width":238,"height":50},
+		{"id":"272757971657b84f","type":"text","text":"# Linear Regression","x":193,"y":-83,"width":299,"height":60},
+		{"id":"7e1f63b7d289bb12","type":"text","text":"# Manual","x":-88,"y":-77,"width":178,"height":60},
+		{"id":"df56d27f5ebe0d8e","type":"text","text":"# Significance","x":1077,"y":-97,"width":238,"height":80},
+		{"id":"fd97696e28654063","type":"text","text":"# Other auxiliary topics","x":1202,"y":-557,"width":361,"height":60},
+		{"id":"6a19def197d6a7cd","type":"text","text":"# Applications","x":1325,"y":-103,"width":238,"height":50},
+		{"id":"d0e45200c0817739","x":1920,"y":-557,"width":393,"height":57,"type":"text","text":"# Filipino News Writing"}
+	],
+	"edges":[
+		{"id":"4ed4fe18b28d8062","fromNode":"074e8724ecee58bf","fromSide":"top","toNode":"904c2a16ffa8bab0","toSide":"bottom"},
+		{"id":"be1fb3362d5269cb","fromNode":"074e8724ecee58bf","fromSide":"top","toNode":"39fba7ce9e6ba574","toSide":"bottom"},
+		{"id":"3d3f266f9f476637","fromNode":"074e8724ecee58bf","fromSide":"bottom","toNode":"7e1f63b7d289bb12","toSide":"top"},
+		{"id":"16a82078d6cfe26c","fromNode":"074e8724ecee58bf","fromSide":"bottom","toNode":"272757971657b84f","toSide":"top"},
+		{"id":"7cdcd192fa9f88de","fromNode":"7a7b2432d48aad9b","fromSide":"left","toNode":"074e8724ecee58bf","toSide":"right"},
+		{"id":"89a38c530a443020","fromNode":"7a7b2432d48aad9b","fromSide":"bottom","toNode":"6a19def197d6a7cd","toSide":"top"},
+		{"id":"18aa657623720124","fromNode":"7a7b2432d48aad9b","fromSide":"top","toNode":"fd97696e28654063","toSide":"bottom"},
+		{"id":"b59a4fa325961f1b","fromNode":"7a7b2432d48aad9b","fromSide":"bottom","toNode":"df56d27f5ebe0d8e","toSide":"top"},
+		{"id":"e0595455679bd65e","fromNode":"6a19def197d6a7cd","fromSide":"bottom","toNode":"c29bad026f4e256d","toSide":"top"},
+		{"id":"fc4397fc173cf16e","fromNode":"074e8724ecee58bf","fromSide":"bottom","toNode":"9756d07879ca3464","toSide":"top"},
+		{"id":"d6c99b8c1c43a60a","fromNode":"7a7b2432d48aad9b","fromSide":"top","toNode":"95160eec27ad8963","toSide":"bottom"},
+		{"id":"7923d55d8c8f8b25","fromNode":"95160eec27ad8963","fromSide":"top","toNode":"751bcd60a188aff6","toSide":"bottom"},
+		{"id":"33d9172692fb57c8","fromNode":"074e8724ecee58bf","fromSide":"top","toNode":"fedc9b3a2e97c922","toSide":"bottom"}
+	]
+}

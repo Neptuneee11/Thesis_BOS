@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"131fc02e63f06b07","type":"group","x":-1000,"y":-380,"width":940,"height":950,"color":"6","label":"Consultations"},
+		{"id":"435fad0dbf51e148","type":"file","file":"ThesisOriNotes.md","x":-2040,"y":-460,"width":880,"height":1200},
+		{"id":"e359d9b35a769bdf","type":"file","file":"Consultations and events/Consultation - Feb 13, 2024.md","x":-480,"y":140,"width":400,"height":400,"color":"5"},
+		{"id":"bbc548a66fddfcd8","type":"file","file":"Consultations and events/Questions for Feb 13, 2024 consultation.md","x":-980,"y":130,"width":400,"height":420,"color":"4"},
+		{"id":"164e212c1e6669ab","type":"file","file":"Consultations and events/Consultation - Jan. 30, 2024.md","x":-480,"y":-320,"width":400,"height":360,"color":"5"}
+	],
+	"edges":[
+		{"id":"ed7488176ede68a3","fromNode":"bbc548a66fddfcd8","fromSide":"right","toNode":"e359d9b35a769bdf","toSide":"left"}
+	]
+}

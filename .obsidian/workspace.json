@@ -6,6 +6,7 @@
       {
         "id": "a1404e2d3bd7f82b",
         "type": "tabs",
+        "dimension": 49.430676490288015,
         "children": [
           {
             "id": "21da4cb72cc7644e",
@@ -13,7 +14,50 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature probably/acula2018.pdf"
+                "file": "related literature probably/Development of POS tagger for English-Bengali Code-Mixed data.pdf"
+              }
+            }
+          },
+          {
+            "id": "f16a0f36e75b254a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "related literature probably/Improving Code-mixed POS Tagging Using Code-mixed Embeddings.pdf"
+              }
+            }
+          },
+          {
+            "id": "3a37c8635383e950",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "related literature probably/Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "03600cb7d1d15fc3",
+        "type": "tabs",
+        "dimension": 50.56932350971199,
+        "children": [
+          {
+            "id": "ccbfaff929a97a90",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "related literature actual/RRL overview.canvas",
+                "viewState": {
+                  "x": 2213.390280938419,
+                  "y": -543.0359038860237,
+                  "zoom": -1.3333333333333333
+                }
               }
             }
           }
@@ -67,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 383.5
   },
   "right": {
     "id": "3bc49f768e871300",
@@ -83,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature probably/acula2018.pdf",
+                "file": "related literature actual/RRL overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature probably/acula2018.pdf",
+                "file": "related literature actual/RRL overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature probably/acula2018.pdf"
+                "file": "related literature actual/RRL overview.canvas"
               }
             }
           }
@@ -144,23 +188,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5279d66e5505cee4",
+  "active": "ccbfaff929a97a90",
   "lastOpenFiles": [
-    "related literature probably/2402.02449.pdf",
-    "related literature probably/2304.13989.pdf",
-    "related literature probably/2210.09840.pdf",
-    "related literature probably/2102.04490.pdf",
-    "related literature probably/2007.14576.pdf",
-    "related literature probably/5384-16133-1-PB.pdf",
-    "related literature probably/3275-8305-1-PB.pdf",
-    "related literature probably/pranckevicius2016.pdf",
+    "related literature probably/Improving Code-mixed POS Tagging Using Code-mixed Embeddings.pdf",
+    "related literature actual/RRL overview.canvas",
+    "related literature probably/Implementing Fact-Checking in Journalistic Articles Shared on Social Media in the Philippines Using Knowledge Graphs.pdf",
+    "related literature probably/hybrid pos tagger.pdf",
+    "related literature probably/Feature-based POS tagging and sentence relevance for news multi-document summarization in Bahasa Indonesia.pdf",
+    "related literature probably/Fast or Accurate – A Comparative Evaluation of PoS Tagging Models.pdf",
+    "related literature probably/Development of POS tagger for English-Bengali Code-Mixed data.pdf",
+    "related literature probably/Cross-Domain Evaluation of POS Taggers From Wall Street Journal to Fandom Wiki.pdf",
+    "related literature probably/Application of Logistic Regression with Part-Of-The-Speech Tagging For Multi-Class Text Classification.pdf",
     "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
-    "related literature actual/POS_Tagging_Approaches_A_Comparison.pdf",
+    "related literature probably/Tagging Efficiency Analysis of Part of Speech Taggers on Indonesian News.pdf",
+    "Consultations and events/consultations and events.canvas",
+    "Consultations and events/Consultation - Feb 13, 2024.md",
     "related literature actual/POS Tagging approaches, a comparison.md",
-    "related literature actual",
-    "Questions for Feb 13, 2024 consultation.md",
+    "Consultations and events/Consultation - Jan. 30, 2024.md",
+    "Consultations and events/Questions for Feb 13, 2024 consultation.md",
     "related literature probably/POS Tagging approaches, a comparison.md",
-    "Consultation - Jan. 30, 2024.md",
     "ThesisOriNotes.md",
     "README.md",
     "tutorialAssets/AANewUI.png"
