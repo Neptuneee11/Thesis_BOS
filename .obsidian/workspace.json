@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature probably/5384-16133-1-PB.pdf"
+                "file": "related literature probably/acula2018.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature probably/5384-16133-1-PB.pdf",
+                "file": "related literature probably/acula2018.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature probably/5384-16133-1-PB.pdf",
+                "file": "related literature probably/acula2018.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature probably/5384-16133-1-PB.pdf"
+                "file": "related literature probably/acula2018.pdf"
               }
             }
           }
@@ -144,8 +144,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21da4cb72cc7644e",
+  "active": "5279d66e5505cee4",
   "lastOpenFiles": [
+    "related literature probably/2402.02449.pdf",
+    "related literature probably/2304.13989.pdf",
+    "related literature probably/2210.09840.pdf",
+    "related literature probably/2102.04490.pdf",
+    "related literature probably/2007.14576.pdf",
+    "related literature probably/5384-16133-1-PB.pdf",
     "related literature probably/3275-8305-1-PB.pdf",
     "related literature probably/pranckevicius2016.pdf",
     "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
@@ -153,12 +159,6 @@
     "related literature actual/POS Tagging approaches, a comparison.md",
     "related literature actual",
     "Questions for Feb 13, 2024 consultation.md",
-    "Consult Notes - 02 - 03",
-    "related literature probably/posTaggerEvaluation.pdf",
-    "related literature probably/pranckevicius2016.pdf.crdownload",
-    "related literature probably/acula2018.pdf",
-    "related literature probably/acula2018.pdf.crdownload",
-    "related literature probably/Sequence_Synopsis_Optimize_Visual_Summary_of_Temporal_Event_Data.pdf",
     "related literature probably/POS Tagging approaches, a comparison.md",
     "Consultation - Jan. 30, 2024.md",
     "ThesisOriNotes.md",
