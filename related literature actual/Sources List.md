@@ -18,3 +18,9 @@
 
 [[Application of Logistic Regression with Part-Of-The-Speech Tagging For Multi-Class Text Classification.pdf]]
 >[7]Tomas Pranckevičius and Virginijus Marcinkevičius. 2016. Application of logistic regression with part-of-the-speech tagging for multi-class text classification. In 2016 IEEE 4th workshop on advances in information, electronic and electrical engineering (AIEEE), IEEE, 1–5.
+
+[[Part‑of‑speech (POS) tagging using conditional random feld (CRF) model for Khasi corpora]]
+>[8]Warjri, S. et al. (2021) ‘Part-of-speech (POS) tagging using conditional random field (CRF) model for khasi corpora’, International Journal of Speech Technology, 24(4), pp. 853–864. doi:10.1007/s10772-021-09860-w.
+
+[[POS Tagging Approaches: A Comparison]]
+>[9]Kumawat, D. and Jain, V. (2015) ‘POS tagging approaches: A comparison’, International Journal of Computer Applications, 118(6), pp. 32–38. doi:10.5120/20752-3148. 
