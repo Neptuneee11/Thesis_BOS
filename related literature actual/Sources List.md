@@ -24,3 +24,6 @@
 
 [[POS Tagging Approaches: A Comparison]]
 >[9]Kumawat, D. and Jain, V. (2015) ‘POS tagging approaches: A comparison’, International Journal of Computer Applications, 118(6), pp. 32–38. doi:10.5120/20752-3148. 
+
+[[A comparative study of hidden Markov model and conditional random fields on a Yorùba part-of-speech tagging task]]
+>[10]Ayogu, I.I. et al. (2017) ‘A comparative study of Hidden Markov model and conditional random fields on a yorùba part-of-speech tagging task’, 2017 International Conference on Computing Networking and Informatics (ICCNI) [Preprint]. doi:10.1109/iccni.2017.8123784. 
