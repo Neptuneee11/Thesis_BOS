@@ -4,44 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a1404e2d3bd7f82b",
+        "id": "400682cd3bbc6dc4",
         "type": "tabs",
-        "dimension": 72.62830482115086,
         "children": [
           {
-            "id": "6d5591b85e2b155c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "related literature probably/Application of Logistic Regression with Part-Of-The-Speech Tagging For Multi-Class Text Classification.pdf"
-              }
-            }
-          },
-          {
-            "id": "f09b3607975be8d7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "related literature probably/Development of POS tagger for English-Bengali Code-Mixed data.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6a786af56bf0b7e7",
-        "type": "tabs",
-        "dimension": 27.371695178849144,
-        "children": [
-          {
-            "id": "7ae309d39550e2a9",
+            "id": "d7b28acb6c215aa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "related literature actual/Sources List.md",
+                "file": "Consultations and events/Consultation - Feb 13, 2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature actual/Sources List.md",
+                "file": "Consultations and events/Consultation - Feb 13, 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature actual/Sources List.md",
+                "file": "Consultations and events/Consultation - Feb 13, 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature actual/Sources List.md"
+                "file": "Consultations and events/Consultation - Feb 13, 2024.md"
               }
             }
           }
@@ -174,24 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ae309d39550e2a9",
+  "active": "d7b28acb6c215aa0",
   "lastOpenFiles": [
+    "Consultations and events/Consultation - Jan. 30, 2024.md",
+    "related literature actual/RRL overview.canvas",
+    "Consultations and events/Consultation - Feb 13, 2024.md",
+    "related literature actual/Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging.pdf",
+    "related literature actual/Sources List.md",
+    "Consultations and events/consultations and events.canvas",
+    "Consultations and events/Questions for Feb 13, 2024 consultation.md",
+    "related literature actual/Development of POS tagger for English-Bengali Code-Mixed data.pdf",
+    "related literature probably/Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf",
     "related literature probably/Application of Logistic Regression with Part-Of-The-Speech Tagging For Multi-Class Text Classification.pdf",
     "related literature probably/hybrid pos tagger.pdf",
-    "related literature actual/Sources List.md",
     "related literature probably/Implementing Fact-Checking in Journalistic Articles Shared on Social Media in the Philippines Using Knowledge Graphs.pdf",
-    "related literature probably/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
+    "related literature actual/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
     "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
     "related literature probably/Sequence_Synopsis_Optimize_Visual_Summary_of_Temporal_Event_Data.pdf",
     "related literature probably/Surfing the modeling of POS taggers in low-resource scenarios.pdf",
-    "related literature probably/Tagging Efficiency Analysis of Part of Speech Taggers on Indonesian News.pdf",
-    "related literature probably/Unsupervised Abstractive Summarization of Bengali Text Documents.pdf",
-    "related literature probably/Improving Code-mixed POS Tagging Using Code-mixed Embeddings.pdf",
-    "related literature actual/RRL overview.canvas",
-    "Consultations and events/consultations and events.canvas",
-    "Consultations and events/Questions for Feb 13, 2024 consultation.md",
-    "Consultations and events/Consultation - Jan. 30, 2024.md",
-    "Consultations and events/Consultation - Feb 13, 2024.md",
     "ThesisOriNotes.md",
     "README.md",
     "Questions for Feb 13, 2024 consultation.md",

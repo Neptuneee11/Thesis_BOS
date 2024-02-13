@@ -8,7 +8,7 @@
 >[3]Yogarshi Vyas, Spandana Gella, Jatin Sharma, Kalika Bali, and Monojit Choudhury. 2014. Pos tagging of english-hindi code-mixed social media content. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP), 974–979.
 
 [[Improving Code-mixed POS Tagging Using Code-mixed Embeddings.pdf]]
->[3]S Nagesh Bhattu, Satya Krishna Nunna, Durvasula VLN Somayajulu, and Binay Pradhan. 2020. Improving code-mixed POS tagging using code-mixed embeddings. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 19, 4 (2020), 1–31.
+>[4]S Nagesh Bhattu, Satya Krishna Nunna, Durvasula VLN Somayajulu, and Binay Pradhan. 2020. Improving code-mixed POS tagging using code-mixed embeddings. ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP) 19, 4 (2020), 1–31.
 
 [[Tagging Efficiency Analysis of Part of Speech Taggers on Indonesian News.pdf]]
 >[5]Djatnika Widia Nugraha, Donni Richasdy, and Aditya Firman Ihsan. 2023. Tagging Efficiency Analysis of Part of Speech Taggers on Indonesian News. JURNAL MEDIA INFORMATIKA BUDIDARMA 7, 1 (2023), 214–222.
