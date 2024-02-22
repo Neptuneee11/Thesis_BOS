@@ -6,14 +6,32 @@
       {
         "id": "400682cd3bbc6dc4",
         "type": "tabs",
+        "dimension": 76.1437908496732,
         "children": [
           {
             "id": "d7b28acb6c215aa0",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "related literature probably/Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d54cd684a95ab635",
+        "type": "tabs",
+        "dimension": 23.856209150326798,
+        "children": [
+          {
+            "id": "9836e6e5e5491e63",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Consultations and events/Consultation - Feb 13, 2024.md",
+                "file": "related literature actual/chapter 1 notes/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +56,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -69,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 331.5
   },
   "right": {
     "id": "3bc49f768e871300",
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consultations and events/Consultation - Feb 13, 2024.md",
+                "file": "related literature actual/chapter 1 notes/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consultations and events/Consultation - Feb 13, 2024.md",
+                "file": "related literature actual/chapter 1 notes/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consultations and events/Consultation - Feb 13, 2024.md"
+                "file": "related literature actual/chapter 1 notes/Overview.md"
               }
             }
           }
@@ -146,24 +164,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7b28acb6c215aa0",
+  "active": "9836e6e5e5491e63",
   "lastOpenFiles": [
-    "Consultations and events/Consultation - Jan. 30, 2024.md",
-    "related literature actual/RRL overview.canvas",
-    "Consultations and events/Consultation - Feb 13, 2024.md",
-    "related literature actual/Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging.pdf",
-    "related literature actual/Sources List.md",
-    "Consultations and events/consultations and events.canvas",
-    "Consultations and events/Questions for Feb 13, 2024 consultation.md",
-    "related literature actual/Development of POS tagger for English-Bengali Code-Mixed data.pdf",
     "related literature probably/Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf",
-    "related literature probably/Application of Logistic Regression with Part-Of-The-Speech Tagging For Multi-Class Text Classification.pdf",
-    "related literature probably/hybrid pos tagger.pdf",
-    "related literature probably/Implementing Fact-Checking in Journalistic Articles Shared on Social Media in the Philippines Using Knowledge Graphs.pdf",
-    "related literature actual/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
-    "related literature probably/Sequence Synopsis - Optimize Visual Summary of Temporal Event Data.pdf",
-    "related literature probably/Sequence_Synopsis_Optimize_Visual_Summary_of_Temporal_Event_Data.pdf",
-    "related literature probably/Surfing the modeling of POS taggers in low-resource scenarios.pdf",
+    "related literature probably/800.pdf",
+    "related literature probably/2021.findings-acl.401.pdf",
+    "related literature probably/800.pdf.crdownload",
+    "related literature probably/Linguistic_inquiry_and_word_count_LIWC.pdf",
+    "related literature probably/koivunen-et-al-2021-emotive-evaluative-epistemic-a-linguistic-analysis-of-affectivity-in-news-journalism.pdf",
+    "related literature probably/Linguistic_analysis_on_the_construction.pdf",
+    "related literature probably/Gender Biases and Linguistic Sexism in Political Communication A Comparison of Press News About Men and Women Italian Ministers.pdf",
+    "related literature probably/Viewpoint_in_Linguistic_Discourse_Space_and_Evaluation_in_News_Reports_of_Political_Protests.pdf",
+    "related literature actual/chapter 1 notes/Overview.md",
+    "related literature probably/2021.findings-acl.401.pdf.crdownload",
+    "related literature probably/Viewpoint_in_Linguistic_Discourse_Space_and_Evaluation_in_News_Reports_of_Political_Protests.pdf.crdownload",
+    "Consultations and events/Consultation - Feb 13, 2024.md",
+    "Consultations and events/Consultation - Jan. 30, 2024.md",
+    "Consultations and events/consultations and events.canvas",
+    "related literature actual/RRL overview.canvas",
+    "related literature actual/Sources List.md",
+    "Consultations and events/Questions for Feb 13, 2024 consultation.md",
     "ThesisOriNotes.md",
     "README.md",
     "Questions for Feb 13, 2024 consultation.md",
