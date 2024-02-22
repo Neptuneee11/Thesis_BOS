@@ -22,8 +22,14 @@
 [[Part‑of‑speech (POS) tagging using conditional random feld (CRF) model for Khasi corpora]]
 >[8]Warjri, S. et al. (2021) ‘Part-of-speech (POS) tagging using conditional random field (CRF) model for khasi corpora’, International Journal of Speech Technology, 24(4), pp. 853–864. doi:10.1007/s10772-021-09860-w.
 
-[[POS Tagging Approaches: A Comparison]]
+[[POS Tagging approaches, a comparison]]
 >[9]Kumawat, D. and Jain, V. (2015) ‘POS tagging approaches: A comparison’, International Journal of Computer Applications, 118(6), pp. 32–38. doi:10.5120/20752-3148. 
 
 [[A comparative study of hidden Markov model and conditional random fields on a Yorùba part-of-speech tagging task]]
 >[10]Ayogu, I.I. et al. (2017) ‘A comparative study of Hidden Markov model and conditional random fields on a yorùba part-of-speech tagging task’, 2017 International Conference on Computing Networking and Informatics (ICCNI) [Preprint]. doi:10.1109/iccni.2017.8123784. 
+
+[[Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf]]
+>[11]Rendhy Al-Farrel, Donni Richasdy, and Mahendra Dwifebri Purbolaksono. 2022. Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods. JURNAL MEDIA INFORMATIKA BUDIDARMA 6, 4 (2022), 2187–2195.
+
+[[2021.findings-acl.401.pdf]]
+>[12]Chang Li and Dan Goldwasser. 2021. Using social and linguistic information to adapt pretrained representations for political perspective identification. In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, 4569–4579.

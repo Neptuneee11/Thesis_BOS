@@ -6,7 +6,7 @@
       {
         "id": "400682cd3bbc6dc4",
         "type": "tabs",
-        "dimension": 76.1437908496732,
+        "dimension": 60.37581699346405,
         "children": [
           {
             "id": "d7b28acb6c215aa0",
@@ -14,7 +14,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature probably/Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf"
+                "file": "related literature probably/2021.findings-acl.401.pdf"
+              }
+            }
+          },
+          {
+            "id": "cdad90c808de50db",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "related literature actual/RRL overview.canvas",
+                "viewState": {
+                  "x": 2868.398467485005,
+                  "y": -569.9610697023229,
+                  "zoom": -0.9164124963726052
+                }
               }
             }
           }
@@ -23,15 +38,27 @@
       {
         "id": "d54cd684a95ab635",
         "type": "tabs",
-        "dimension": 23.856209150326798,
+        "dimension": 39.624183006535944,
         "children": [
           {
-            "id": "9836e6e5e5491e63",
+            "id": "217ffd16c884fea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "related literature actual/chapter 1 notes/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00b97545839c39e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "related literature actual/Sources List.md",
                 "mode": "source",
                 "source": false
               }
@@ -164,25 +191,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9836e6e5e5491e63",
+  "active": "217ffd16c884fea6",
   "lastOpenFiles": [
-    "related literature probably/Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf",
-    "related literature probably/800.pdf",
+    "related literature actual/Sources List.md",
     "related literature probably/2021.findings-acl.401.pdf",
-    "related literature probably/800.pdf.crdownload",
-    "related literature probably/Linguistic_inquiry_and_word_count_LIWC.pdf",
-    "related literature probably/koivunen-et-al-2021-emotive-evaluative-epistemic-a-linguistic-analysis-of-affectivity-in-news-journalism.pdf",
-    "related literature probably/Linguistic_analysis_on_the_construction.pdf",
-    "related literature probably/Gender Biases and Linguistic Sexism in Political Communication A Comparison of Press News About Men and Women Italian Ministers.pdf",
-    "related literature probably/Viewpoint_in_Linguistic_Discourse_Space_and_Evaluation_in_News_Reports_of_Political_Protests.pdf",
     "related literature actual/chapter 1 notes/Overview.md",
+    "related literature actual/RRL overview.canvas",
+    "related literature probably/Linguistic_analysis_on_the_construction.pdf",
+    "related literature probably/Viewpoint_in_Linguistic_Discourse_Space_and_Evaluation_in_News_Reports_of_Political_Protests.pdf",
+    "related literature probably/Gender Biases and Linguistic Sexism in Political Communication A Comparison of Press News About Men and Women Italian Ministers.pdf",
+    "related literature probably/Linguistic_inquiry_and_word_count_LIWC.pdf",
+    "related literature actual/Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf",
+    "related literature probably/800.pdf",
+    "related literature probably/800.pdf.crdownload",
+    "related literature probably/koivunen-et-al-2021-emotive-evaluative-epistemic-a-linguistic-analysis-of-affectivity-in-news-journalism.pdf",
     "related literature probably/2021.findings-acl.401.pdf.crdownload",
-    "related literature probably/Viewpoint_in_Linguistic_Discourse_Space_and_Evaluation_in_News_Reports_of_Political_Protests.pdf.crdownload",
     "Consultations and events/Consultation - Feb 13, 2024.md",
     "Consultations and events/Consultation - Jan. 30, 2024.md",
     "Consultations and events/consultations and events.canvas",
-    "related literature actual/RRL overview.canvas",
-    "related literature actual/Sources List.md",
     "Consultations and events/Questions for Feb 13, 2024 consultation.md",
     "ThesisOriNotes.md",
     "README.md",
