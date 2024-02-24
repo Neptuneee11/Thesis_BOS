@@ -6,7 +6,7 @@
       {
         "id": "400682cd3bbc6dc4",
         "type": "tabs",
-        "dimension": 60.37581699346405,
+        "dimension": 69.6078431372549,
         "children": [
           {
             "id": "d7b28acb6c215aa0",
@@ -14,7 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature probably/2021.findings-acl.401.pdf"
+                "file": "related literature probably/1909.02670.pdf"
               }
             }
           },
@@ -26,19 +26,20 @@
               "state": {
                 "file": "related literature actual/RRL overview.canvas",
                 "viewState": {
-                  "x": 2868.398467485005,
-                  "y": -569.9610697023229,
-                  "zoom": -0.9164124963726052
+                  "x": 2375.5885450106016,
+                  "y": -916.3894905615823,
+                  "zoom": -0.8075639613763309
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d54cd684a95ab635",
         "type": "tabs",
-        "dimension": 39.624183006535944,
+        "dimension": 30.392156862745097,
         "children": [
           {
             "id": "217ffd16c884fea6",
@@ -193,19 +194,20 @@
   },
   "active": "217ffd16c884fea6",
   "lastOpenFiles": [
-    "related literature actual/Sources List.md",
-    "related literature probably/2021.findings-acl.401.pdf",
-    "related literature actual/chapter 1 notes/Overview.md",
+    "related literature probably/2020.coling-main.556.pdf",
+    "related literature probably/2020.coling-main.556.pdf.crdownload",
     "related literature actual/RRL overview.canvas",
+    "related literature actual/chapter 1 notes/Overview.md",
+    "related literature probably/1909.02670.pdf",
+    "related literature probably/2021.findings-acl.401.pdf",
+    "related literature probably/1909.02670.pdf.crdownload",
+    "related literature actual/Sources List.md",
     "related literature probably/Linguistic_analysis_on_the_construction.pdf",
     "related literature probably/Viewpoint_in_Linguistic_Discourse_Space_and_Evaluation_in_News_Reports_of_Political_Protests.pdf",
     "related literature probably/Gender Biases and Linguistic Sexism in Political Communication A Comparison of Press News About Men and Women Italian Ministers.pdf",
     "related literature probably/Linguistic_inquiry_and_word_count_LIWC.pdf",
     "related literature actual/Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf",
     "related literature probably/800.pdf",
-    "related literature probably/800.pdf.crdownload",
-    "related literature probably/koivunen-et-al-2021-emotive-evaluative-epistemic-a-linguistic-analysis-of-affectivity-in-news-journalism.pdf",
-    "related literature probably/2021.findings-acl.401.pdf.crdownload",
     "Consultations and events/Consultation - Feb 13, 2024.md",
     "Consultations and events/Consultation - Jan. 30, 2024.md",
     "Consultations and events/consultations and events.canvas",
