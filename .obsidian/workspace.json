@@ -6,8 +6,23 @@
       {
         "id": "400682cd3bbc6dc4",
         "type": "tabs",
-        "dimension": 70.01620745542951,
+        "dimension": 78.10457516339869,
         "children": [
+          {
+            "id": "d7b28acb6c215aa0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "related literature actual/RRL overview.canvas",
+                "viewState": {
+                  "x": 2993.638897474529,
+                  "y": -438.4382826534029,
+                  "zoom": -0.8033569092229824
+                }
+              }
+            }
+          },
           {
             "id": "cdad90c808de50db",
             "type": "leaf",
@@ -17,21 +32,6 @@
                 "file": "related literature actual/TheEffectofaMediaShutdownonPhilippineNewsMediaContent.pdf"
               }
             }
-          },
-          {
-            "id": "be0542002c297a8d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "related literature actual/RRL overview.canvas",
-                "viewState": {
-                  "x": 3336.1743948103963,
-                  "y": -610.9588069831491,
-                  "zoom": -1.238909792738203
-                }
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -39,7 +39,7 @@
       {
         "id": "d54cd684a95ab635",
         "type": "tabs",
-        "dimension": 29.983792544570502,
+        "dimension": 21.895424836601304,
         "children": [
           {
             "id": "217ffd16c884fea6",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "fad93047c389350c",
+            "id": "00b97545839c39e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 331.5
   },
   "right": {
     "id": "3bc49f768e871300",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature actual/RRL overview.canvas",
+                "file": "related literature actual/Sources List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature actual/RRL overview.canvas",
+                "file": "related literature actual/Sources List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature actual/RRL overview.canvas"
+                "file": "related literature actual/Sources List.md"
               }
             }
           }
@@ -193,21 +193,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be0542002c297a8d",
+  "active": "00b97545839c39e6",
   "lastOpenFiles": [
-    "related literature actual/Sources List.md",
     "related literature actual/TheEffectofaMediaShutdownonPhilippineNewsMediaContent.pdf",
-    "related literature actual/RRL overview.canvas",
-    "related literature probably/Analyzing Political Bias and Unfairness in News Articles.pdf",
-    "related literature probably/EJ1244132.pdf",
     "related literature actual/Jahss-4.2.2.pdf",
-    "related literature actual/Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging.pdf",
-    "related literature actual/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
-    "related literature actual/Analysis of Telkom University News Subjects on Popular Indonesian News Portals Using a Combination of Hidden Markov Model (HMM) and Rule Based Methods.pdf",
     "related literature actual/s00799-018-0261-y.pdf",
+    "related literature actual/Sources List.md",
     "related literature actual/chapter 1 notes/Overview.md",
-    "related literature probably/Political Analysis of News in Sixteen Countries.pdf",
-    "related literature probably/A critical discourse analysis of headlines in online news.pdf",
+    "related literature actual/RRL overview.canvas",
+    "related literature probably/EJ1244132.pdf",
+    "related literature probably/1909.02670.pdf",
+    "related literature probably/2020.coling-main.556.pdf",
+    "related literature probably/2020.coling-main.556.pdf.crdownload",
+    "related literature probably/2021.findings-acl.401.pdf",
+    "related literature probably/1909.02670.pdf.crdownload",
+    "related literature probably/Linguistic_analysis_on_the_construction.pdf",
     "Consultations and events/Consultation - Feb 13, 2024.md",
     "Consultations and events/Consultation - Jan. 30, 2024.md",
     "Consultations and events/consultations and events.canvas",

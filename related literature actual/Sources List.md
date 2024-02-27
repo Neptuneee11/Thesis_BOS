@@ -33,3 +33,9 @@
 
 [[2021.findings-acl.401.pdf]]
 >[12]Chang Li and Dan Goldwasser. 2021. Using social and linguistic information to adapt pretrained representations for political perspective identification. In Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021, 4569–4579.
+
+[[s00799-018-0261-y.pdf| multidisciplinary]]
+> [13]Felix Hamborg, Karsten Donnay, and Bela Gipp. 2019. Automated identification of media bias in news articles: an interdisciplinary literature review. International Journal on Digital Libraries 20, 4 (2019), 391–415.
+
+[[TheEffectofaMediaShutdownonPhilippineNewsMediaContent.pdf]]
+> [14]Matthew Maulion and Adrian Perez. 2022. THE EFFECT OF A MEDIA SHUTDOWN ON PHILIPPINE NEWS MEDIA CONTENT: A COMBINED SENTIMENT ANALYSIS AND TOPIC MODELLING APPROACH. Science International 34, (November 2022), 529–533.
