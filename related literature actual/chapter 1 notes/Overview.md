@@ -66,3 +66,6 @@ There are 3 findings:
 1. There are few approaches in the field of cs when it comes to media bias analysis
 2. Social Science people love using their manual ways of analysis. 
 3. There's a lot of potential for both disciplines coming together
+
+## effect of media shutdown
+
