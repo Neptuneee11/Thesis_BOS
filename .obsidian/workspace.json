@@ -6,7 +6,7 @@
       {
         "id": "400682cd3bbc6dc4",
         "type": "tabs",
-        "dimension": 78.10457516339869,
+        "dimension": 79.69865186360032,
         "children": [
           {
             "id": "d7b28acb6c215aa0",
@@ -16,9 +16,9 @@
               "state": {
                 "file": "related literature actual/RRL overview.canvas",
                 "viewState": {
-                  "x": 2993.638897474529,
-                  "y": -438.4382826534029,
-                  "zoom": -0.8033569092229824
+                  "x": 3723.0980586906844,
+                  "y": -530.1913913520027,
+                  "zoom": -1.3691480458672647
                 }
               }
             }
@@ -29,7 +29,19 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature actual/TheEffectofaMediaShutdownonPhilippineNewsMediaContent.pdf"
+                "file": "related literature actual/political view identification.pdf"
+              }
+            }
+          },
+          {
+            "id": "82c01c62ab4b9b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "related literature actual/chapter 1 notes/Overview.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -39,7 +51,7 @@
       {
         "id": "d54cd684a95ab635",
         "type": "tabs",
-        "dimension": 21.895424836601304,
+        "dimension": 20.30134813639968,
         "children": [
           {
             "id": "217ffd16c884fea6",
@@ -65,8 +77,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 294.5
   },
   "right": {
     "id": "3bc49f768e871300",
@@ -132,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature actual/Sources List.md",
+                "file": "related literature actual/political view identification.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature actual/Sources List.md",
+                "file": "related literature actual/political view identification.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature actual/Sources List.md"
+                "file": "related literature actual/political view identification.pdf"
               }
             }
           }
@@ -193,24 +204,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00b97545839c39e6",
+  "active": "cdad90c808de50db",
   "lastOpenFiles": [
-    "related literature actual/TheEffectofaMediaShutdownonPhilippineNewsMediaContent.pdf",
-    "related literature actual/Jahss-4.2.2.pdf",
-    "related literature actual/s00799-018-0261-y.pdf",
-    "related literature actual/Sources List.md",
+    "related literature probably/1-s2.0-S0306457321000157-main.pdf",
+    "related literature probably/FRAMINGTHEWARONDRUGSINTHEPHILIPPINES.pdf",
+    "related literature actual/po_s_tag_based_attention_for_feature_selection_in_sentiment_analysis.pdf",
     "related literature actual/chapter 1 notes/Overview.md",
-    "related literature actual/RRL overview.canvas",
+    "related literature actual/framing in online news.pdf",
     "related literature probably/EJ1244132.pdf",
-    "related literature probably/1909.02670.pdf",
-    "related literature probably/2020.coling-main.556.pdf",
-    "related literature probably/2020.coling-main.556.pdf.crdownload",
-    "related literature probably/2021.findings-acl.401.pdf",
-    "related literature probably/1909.02670.pdf.crdownload",
-    "related literature probably/Linguistic_analysis_on_the_construction.pdf",
+    "related literature actual/political view identification.pdf",
+    "related literature actual/Yu_2-5l5qm0yebj696.pdf",
+    "related literature probably/framing in online news.pdf.crdownload",
+    "related literature probably/Yu_2-5l5qm0yebj696.pdf.crdownload",
+    "related literature probably/1-s2.0-S0306457321000157-main.pdf.crdownload",
+    "related literature actual/RRL overview.canvas",
+    "Consultations and events/Consultation - Mar. 5, 2024.md",
+    "related literature actual/Sources List.md",
     "Consultations and events/Consultation - Feb 13, 2024.md",
-    "Consultations and events/Consultation - Jan. 30, 2024.md",
     "Consultations and events/consultations and events.canvas",
+    "Consultations and events/Consultation - Jan. 30, 2024.md",
     "Consultations and events/Questions for Feb 13, 2024 consultation.md",
     "ThesisOriNotes.md",
     "README.md",

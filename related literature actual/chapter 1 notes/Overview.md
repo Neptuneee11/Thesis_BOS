@@ -67,5 +67,16 @@ There are 3 findings:
 2. Social Science people love using their manual ways of analysis. 
 3. There's a lot of potential for both disciplines coming together
 
-## effect of media shutdown
+#### effect of media shutdown
 
+## Revision 1
+New note, focus kayo sa cs contributions. Probably a combination of new acgorithms
+
+I want to go back to sentiment analysis due to that one paper talking about words that would try to figure out words that affect the sentiment score the most. This requires BERT and POS-Tagging.
+Students almost always go for bert dun sa mga research paper nila. The model they made is called "Polarity POS BERT"
+##### Agendas to advance Political Viewpoints identification
+Political framing detection was told here. It mostly done using traditional techniques of Topic modelling, word2vec, and n-grams.
+##### What is a frame in Journalism?
+Framing is how a reporter selects which pieces of data are to be presented in a story. It is usually implicit. Its subtlety can eb used to manipulate the reader's opinion.
+Framing is called "second-order agenda setting" and it difficult to detect.
+##### Low resource language methods
