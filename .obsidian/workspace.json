@@ -1,60 +1,26 @@
 {
   "main": {
-    "id": "f844b02ca6d0f8a7",
+    "id": "db5d8914104f05bf",
     "type": "split",
     "children": [
       {
-        "id": "400682cd3bbc6dc4",
+        "id": "5de692574b64253d",
         "type": "tabs",
-        "dimension": 73.12176165803109,
         "children": [
           {
-            "id": "d7b28acb6c215aa0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "related literature actual/RRL overview.canvas",
-                "viewState": {
-                  "x": 2993.638897474529,
-                  "y": -438.4382826534029,
-                  "zoom": -0.8033569092229824
-                }
-              }
-            }
-          },
-          {
-            "id": "cdad90c808de50db",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "related literature actual/framing in online news.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d54cd684a95ab635",
-        "type": "tabs",
-        "dimension": 26.878238341968913,
-        "children": [
-          {
-            "id": "823bd57fe49f10ef",
+            "id": "8b99e9aee4bb4972",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "related literature actual/chapter 1 notes/Overview.md",
+                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00b97545839c39e6",
+            "id": "80fd414453e4cd34",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,25 +37,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fa28424d426b9e86",
+    "id": "636862a4bec938c1",
     "type": "split",
     "children": [
       {
-        "id": "e5081c1b99f0db48",
+        "id": "35cff71a22bb5812",
         "type": "tabs",
         "children": [
           {
-            "id": "5279d66e5505cee4",
+            "id": "bd4c73c91fec61c4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "a0718725801ba34a",
+            "id": "d081c502d3e9498b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -104,7 +70,7 @@
             }
           },
           {
-            "id": "6bcab9f70a054435",
+            "id": "a208aaf65bd0ab07",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -115,23 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5
+    "width": 300
   },
   "right": {
-    "id": "3bc49f768e871300",
+    "id": "f88655220127b983",
     "type": "split",
     "children": [
       {
-        "id": "35fce7c2b33dd99f",
+        "id": "ce764438e12444cb",
         "type": "tabs",
         "children": [
           {
-            "id": "9bcd422ce0bc0335",
+            "id": "ea1424f848bf584b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature actual/framing in online news.pdf",
+                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,19 +109,19 @@
             }
           },
           {
-            "id": "e13b25fd8e7d79e3",
+            "id": "5f06886313ce32f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature actual/framing in online news.pdf",
+                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c6eec80ab1d0392e",
+            "id": "4ef95f83b75d4d35",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,12 +132,12 @@
             }
           },
           {
-            "id": "e986c946d83ab9a0",
+            "id": "931164b447f8c747",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature actual/framing in online news.pdf"
+                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md"
               }
             }
           }
@@ -192,31 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdad90c808de50db",
+  "active": "8b99e9aee4bb4972",
   "lastOpenFiles": [
-    "related literature actual/po_s_tag_based_attention_for_feature_selection_in_sentiment_analysis.pdf",
-    "related literature actual/chapter 1 notes/Overview.md",
-    "related literature actual/political view identification.pdf",
-    "related literature probably/Political Analysis of News in Sixteen Countries.pdf",
-    "related literature probably/FRAMINGTHEWARONDRUGSINTHEPHILIPPINES.pdf",
-    "related literature probably/1-s2.0-S0306457321000157-main.pdf",
-    "related literature actual/framing in online news.pdf",
-    "related literature actual/Yu_2-5l5qm0yebj696.pdf",
-    "Consultations and events/Consultation - Mar. 5, 2024.md",
-    "related literature actual/POS Tagging approaches, a comparison.md",
-    "related literature actual/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
-    "related literature actual/Jahss-4.2.2.pdf",
-    "related literature actual/TheEffectofaMediaShutdownonPhilippineNewsMediaContent.pdf",
     "related literature actual/Sources List.md",
-    "related literature actual/RRL overview.canvas",
-    "Consultations and events/Consultation - Feb 13, 2024.md",
-    "Consultations and events/Consultation - Jan. 30, 2024.md",
-    "Consultations and events/consultations and events.canvas",
-    "Consultations and events/Questions for Feb 13, 2024 consultation.md",
-    "ThesisOriNotes.md",
-    "README.md",
-    "Questions for Feb 13, 2024 consultation.md",
-    "Consultation - Jan. 30, 2024.md",
-    "tutorialAssets/AANewUI.png"
+    "related literature probably/3442555.fm.pdf",
+    "related literature probably/3442555.fm.pdf.crdownload",
+    "related literature actual/chapter 1 notes/Pos tagging centered.md"
   ]
 }
