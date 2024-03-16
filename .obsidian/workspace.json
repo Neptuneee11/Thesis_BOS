@@ -14,7 +14,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf"
+                "file": "related literature probably/2022.paclic-1.22.pdf"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
+                "file": "related literature probably/2022.paclic-1.22.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
+                "file": "related literature probably/2022.paclic-1.22.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf"
+                "file": "related literature probably/2022.paclic-1.22.pdf"
               }
             }
           }
@@ -177,21 +177,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd4c73c91fec61c4",
+  "active": "dc1382decf433781",
   "lastOpenFiles": [
-    "related literature probably/political framing in case we use it/Yu_2-5l5qm0yebj696.pdf",
-    "related literature probably/political framing in case we use it/framing in online news.pdf",
-    "related literature actual/po_s_tag_based_attention_for_feature_selection_in_sentiment_analysis.pdf",
-    "related literature probably/political framing in case we use it",
-    "related literature probably/TheEffectofaMediaShutdownonPhilippineNewsMediaContent.pdf",
-    "related literature probably/Jahss-4.2.2.pdf",
-    "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
+    "related literature probably/2208.01814.pdf",
     "related literature actual/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
-    "related literature actual/Improving Code-mixed POS Tagging Using Code-mixed Embeddings.pdf",
-    "related literature actual/Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging.pdf",
-    "related literature actual/Development of POS tagger for English-Bengali Code-Mixed data.pdf",
-    "related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md",
+    "related literature probably/2022.paclic-1.22.pdf",
+    "related literature probably/2022.paclic-1.22.pdf.crdownload",
+    "related literature probably/2208.01814.pdf.crdownload",
+    "related literature probably/s41870-020-00480-2.pdf",
+    "related literature probably/18Pre-trainedLanguageModelsforTagalogwithMulti-sourceData.pdf",
+    "related literature probably/18Pre-trainedLanguageModelsforTagalogwithMulti-sourceData.pdf.crdownload",
+    "related literature actual/po_s_tag_based_attention_for_feature_selection_in_sentiment_analysis.pdf",
     "related literature actual/chapter 1 notes/Pos tagging centered.md",
-    "related literature actual/Sources List.md"
+    "related literature actual/chapter 1 notes/Overview.md",
+    "related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md",
+    "related literature actual/Sources List.md",
+    "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
+    "related literature probably/political framing in case we use it/Yu_2-5l5qm0yebj696.pdf"
   ]
 }
