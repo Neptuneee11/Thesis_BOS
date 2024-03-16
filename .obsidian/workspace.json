@@ -6,19 +6,25 @@
       {
         "id": "5de692574b64253d",
         "type": "tabs",
+        "dimension": 79.94923857868021,
         "children": [
           {
-            "id": "8b99e9aee4bb4972",
+            "id": "dc1382decf433781",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md",
-                "mode": "source",
-                "source": false
+                "file": "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "82fc81002ff5911a",
+        "type": "tabs",
+        "dimension": 20.050761421319795,
+        "children": [
           {
             "id": "80fd414453e4cd34",
             "type": "leaf",
@@ -30,8 +36,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b99e9aee4bb4972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md",
+                "file": "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md",
+                "file": "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md"
+                "file": "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf"
               }
             }
           }
@@ -158,11 +177,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8b99e9aee4bb4972",
+  "active": "bd4c73c91fec61c4",
   "lastOpenFiles": [
-    "related literature actual/Sources List.md",
-    "related literature probably/3442555.fm.pdf",
-    "related literature probably/3442555.fm.pdf.crdownload",
-    "related literature actual/chapter 1 notes/Pos tagging centered.md"
+    "related literature probably/political framing in case we use it/Yu_2-5l5qm0yebj696.pdf",
+    "related literature probably/political framing in case we use it/framing in online news.pdf",
+    "related literature actual/po_s_tag_based_attention_for_feature_selection_in_sentiment_analysis.pdf",
+    "related literature probably/political framing in case we use it",
+    "related literature probably/TheEffectofaMediaShutdownonPhilippineNewsMediaContent.pdf",
+    "related literature probably/Jahss-4.2.2.pdf",
+    "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
+    "related literature actual/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
+    "related literature actual/Improving Code-mixed POS Tagging Using Code-mixed Embeddings.pdf",
+    "related literature actual/Graph-Based Multilingual Label Propagation for Low-Resource Part-of-Speech Tagging.pdf",
+    "related literature actual/Development of POS tagger for English-Bengali Code-Mixed data.pdf",
+    "related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md",
+    "related literature actual/chapter 1 notes/Pos tagging centered.md",
+    "related literature actual/Sources List.md"
   ]
 }
