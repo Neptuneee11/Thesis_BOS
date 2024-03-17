@@ -6,7 +6,7 @@
       {
         "id": "5de692574b64253d",
         "type": "tabs",
-        "dimension": 79.94923857868021,
+        "dimension": 69.0989847715736,
         "children": [
           {
             "id": "dc1382decf433781",
@@ -14,7 +14,22 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature probably/2022.paclic-1.22.pdf"
+                "file": "related literature probably/2208.01814.pdf"
+              }
+            }
+          },
+          {
+            "id": "c568a49891211e6d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "related literature actual/RRL overview.canvas",
+                "viewState": {
+                  "x": 630.4759589020412,
+                  "y": -430.3042999215024,
+                  "zoom": -1.1562733277697752
+                }
               }
             }
           }
@@ -23,7 +38,7 @@
       {
         "id": "82fc81002ff5911a",
         "type": "tabs",
-        "dimension": 20.050761421319795,
+        "dimension": 30.9010152284264,
         "children": [
           {
             "id": "80fd414453e4cd34",
@@ -49,8 +64,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature probably/2022.paclic-1.22.pdf",
+                "file": "related literature probably/2208.01814.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature probably/2022.paclic-1.22.pdf",
+                "file": "related literature probably/2208.01814.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature probably/2022.paclic-1.22.pdf"
+                "file": "related literature probably/2208.01814.pdf"
               }
             }
           }
@@ -179,20 +193,21 @@
   },
   "active": "dc1382decf433781",
   "lastOpenFiles": [
-    "related literature probably/2208.01814.pdf",
-    "related literature actual/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
     "related literature probably/2022.paclic-1.22.pdf",
+    "related literature probably/2208.01814.pdf",
+    "related literature probably/2022.acl_long.529.pdf",
+    "related literature actual/Development of POS tagger for English-Bengali Code-Mixed data.pdf",
+    "related literature actual/RRL overview.canvas",
+    "related literature actual/Sources List.md",
+    "related literature actual/chapter 1 notes/Pos tagging centered.md",
+    "related literature actual/po_s_tag_based_attention_for_feature_selection_in_sentiment_analysis.pdf",
+    "related literature probably/s41870-020-00480-2.pdf",
+    "related literature actual/POS Tagging of English-Hindi Code-Mixed Social Media Content.pdf",
     "related literature probably/2022.paclic-1.22.pdf.crdownload",
     "related literature probably/2208.01814.pdf.crdownload",
-    "related literature probably/s41870-020-00480-2.pdf",
     "related literature probably/18Pre-trainedLanguageModelsforTagalogwithMulti-sourceData.pdf",
     "related literature probably/18Pre-trainedLanguageModelsforTagalogwithMulti-sourceData.pdf.crdownload",
-    "related literature actual/po_s_tag_based_attention_for_feature_selection_in_sentiment_analysis.pdf",
-    "related literature actual/chapter 1 notes/Pos tagging centered.md",
     "related literature actual/chapter 1 notes/Overview.md",
-    "related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md",
-    "related literature actual/Sources List.md",
-    "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
-    "related literature probably/political framing in case we use it/Yu_2-5l5qm0yebj696.pdf"
+    "related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md"
   ]
 }
