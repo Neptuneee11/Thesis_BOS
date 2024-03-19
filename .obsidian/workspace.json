@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature actual/political framing in case we use it/Validating_Policy_Frame_Media_Bias_in_Philippine_Online_News.pdf"
+                "file": "related literature actual/Named-Entity Recognizer Filipino.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature actual/political framing in case we use it/Validating_Policy_Frame_Media_Bias_in_Philippine_Online_News.pdf",
+                "file": "related literature actual/Named-Entity Recognizer Filipino.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature actual/political framing in case we use it/Validating_Policy_Frame_Media_Bias_in_Philippine_Online_News.pdf",
+                "file": "related literature actual/Named-Entity Recognizer Filipino.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature actual/political framing in case we use it/Validating_Policy_Frame_Media_Bias_in_Philippine_Online_News.pdf"
+                "file": "related literature actual/Named-Entity Recognizer Filipino.pdf"
               }
             }
           }
@@ -146,17 +146,19 @@
   },
   "active": "e4e3b9658366250e",
   "lastOpenFiles": [
-    "related literature actual/political framing in case we use it/Yu_2-5l5qm0yebj696.pdf",
-    "related literature actual/political framing in case we use it/Validating_Policy_Frame_Media_Bias_in_Philippine_Online_News.pdf",
-    "related literature probably/2021.findings-acl.401.pdf",
-    "related literature probably/Viewpoint_in_Linguistic_Discourse_Space_and_Evaluation_in_News_Reports_of_Political_Protests.pdf",
-    "related literature probably/Linguistic_inquiry_and_word_count_LIWC.pdf",
-    "related literature probably/Linguistic_analysis_on_the_construction.pdf",
-    "related literature probably/Gender Biases and Linguistic Sexism in Political Communication A Comparison of Press News About Men and Women Italian Ministers.pdf",
-    "related literature probably/infodemiology and infoveillance.pdf",
-    "related literature probably/koivunen-et-al-2021-emotive-evaluative-epistemic-a-linguistic-analysis-of-affectivity-in-news-journalism.pdf",
-    "related literature probably/Language and Linguist  Compass - 2012 - Dunmire - Political Discourse Analysis  Exploring the Language of Politics and the.pdf",
-    "related literature actual/Analyzing News Sentiments and their Impact on Stock Market Trends using POS and TF-IDF based approach.pdf",
+    "related literature actual/named entity recognizer.pdf",
+    "related literature actual/Named-Entity Recognizer Filipino.pdf",
+    "related literature actual/2208.01814.pdf",
+    "related literature actual/machine learning Somali Pos tag.pdf",
+    "related literature actual/CRFPOST_Part_of_Speech_Tagger_for_Filipi.pdf",
+    "related literature probably/li2020.pdf",
+    "related literature probably/li2020.pdf.crdownload",
+    "related literature probably/PACLIC_31_14.pdf",
+    "related literature actual/source list for midterms.md",
+    "related literature actual/Existing databases/1909.02670.pdf",
+    "related literature actual/Existing databases/18Pre-trainedLanguageModelsforTagalogwithMulti-sourceData.pdf",
+    "related literature probably/political framing in case we use it/political view identification.pdf",
+    "related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md",
     "related literature actual/chapter 1 notes/Pos tagging centered.md"
   ]
 }
