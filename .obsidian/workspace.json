@@ -13,11 +13,32 @@
             "state": {
               "type": "pdf",
               "state": {
+                "file": "related literature actual/POS deep learning.pdf"
+              }
+            }
+          },
+          {
+            "id": "5c44419c0978359c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
                 "file": "related literature actual/Named-Entity Recognizer Filipino.pdf"
               }
             }
+          },
+          {
+            "id": "05e8f3508b797cbe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "related literature actual/2208.01814.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,21 +165,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4e3b9658366250e",
+  "active": "5c44419c0978359c",
   "lastOpenFiles": [
-    "related literature actual/named entity recognizer.pdf",
-    "related literature actual/Named-Entity Recognizer Filipino.pdf",
     "related literature actual/2208.01814.pdf",
-    "related literature actual/machine learning Somali Pos tag.pdf",
+    "related literature actual/PACLIC_31_14.pdf",
     "related literature actual/CRFPOST_Part_of_Speech_Tagger_for_Filipi.pdf",
-    "related literature probably/li2020.pdf",
-    "related literature probably/li2020.pdf.crdownload",
-    "related literature probably/PACLIC_31_14.pdf",
     "related literature actual/source list for midterms.md",
-    "related literature actual/Existing databases/1909.02670.pdf",
-    "related literature actual/Existing databases/18Pre-trainedLanguageModelsforTagalogwithMulti-sourceData.pdf",
-    "related literature probably/political framing in case we use it/political view identification.pdf",
+    "related literature probably/political framing in case we use it/Validating_Policy_Frame_Media_Bias_in_Philippine_Online_News.pdf",
+    "related literature actual/Named-Entity Recognizer Filipino.pdf",
+    "related literature probably/Cross-Domain Evaluation of POS Taggers From Wall Street Journal to Fandom Wiki.pdf",
+    "related literature probably/1-s2.0-S0306457321000157-main.pdf",
+    "related literature actual/Development of POS tagger for English-Bengali Code-Mixed data.pdf",
+    "related literature actual/Feature-based POS tagging and sentence relevance for news multi-document summarization in Bahasa Indonesia.pdf",
+    "related literature actual/po_s_tag_based_attention_for_feature_selection_in_sentiment_analysis.pdf",
+    "related literature actual/POS deep learning.pdf",
     "related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md",
+    "related literature actual/Sources List.md",
     "related literature actual/chapter 1 notes/Pos tagging centered.md"
   ]
 }
