@@ -1,15 +1,26 @@
 {
   "main": {
-    "id": "db5d8914104f05bf",
+    "id": "e1839883f63d779f",
     "type": "split",
     "children": [
       {
-        "id": "5de692574b64253d",
+        "id": "741ca4271a0efe06",
         "type": "tabs",
-        "dimension": 69.0989847715736,
         "children": [
           {
-            "id": "c568a49891211e6d",
+            "id": "5a2db793b0e20986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "related literature actual/chapter 1 notes/Uses of NER in general.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8ec4a94d705d594",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -19,74 +30,30 @@
             }
           }
         ]
-      },
-      {
-        "id": "82fc81002ff5911a",
-        "type": "tabs",
-        "dimension": 30.9010152284264,
-        "children": [
-          {
-            "id": "80fd414453e4cd34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "related literature actual/Sources List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a2276a572663168",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "related literature actual/chapter 1 notes/Ontology and linguistics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b99e9aee4bb4972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "related literature actual/chapter 1 notes/Pos tagging centered.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "636862a4bec938c1",
+    "id": "9323675834db2103",
     "type": "split",
     "children": [
       {
-        "id": "35cff71a22bb5812",
+        "id": "56d06b30bfefeada",
         "type": "tabs",
         "children": [
           {
-            "id": "bd4c73c91fec61c4",
+            "id": "cd1e5280ea30c713",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "d081c502d3e9498b",
+            "id": "1e40526c64fdc643",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -101,7 +68,7 @@
             }
           },
           {
-            "id": "a208aaf65bd0ab07",
+            "id": "978dca557655ce42",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -115,20 +82,20 @@
     "width": 300
   },
   "right": {
-    "id": "f88655220127b983",
+    "id": "b50b682bc9f3c328",
     "type": "split",
     "children": [
       {
-        "id": "ce764438e12444cb",
+        "id": "ae92a5ebc6c005ac",
         "type": "tabs",
         "children": [
           {
-            "id": "ea1424f848bf584b",
+            "id": "53ad63a329b94a5e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature actual/chapter 1 notes/Ontology and linguistics.md",
+                "file": "related literature actual/chapter 1 notes/Uses of NER in general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,19 +107,19 @@
             }
           },
           {
-            "id": "5f06886313ce32f0",
+            "id": "4b2101ba61648eaa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature actual/chapter 1 notes/Ontology and linguistics.md",
+                "file": "related literature actual/chapter 1 notes/Uses of NER in general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4ef95f83b75d4d35",
+            "id": "840d588db3e919e4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -163,12 +130,12 @@
             }
           },
           {
-            "id": "931164b447f8c747",
+            "id": "dafe4e817048a30e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature actual/chapter 1 notes/Ontology and linguistics.md"
+                "file": "related literature actual/chapter 1 notes/Uses of NER in general.md"
               }
             }
           }
@@ -189,24 +156,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a2276a572663168",
+  "active": "5a2db793b0e20986",
   "lastOpenFiles": [
-    "related literature actual/Named-Entity Recognizer Filipino.pdf",
+    "related literature probably/s10462-022-10197-2.pdf",
     "related literature actual/chapter 1 notes/Ontology and linguistics.md",
-    "related literature actual/Sources List.md",
-    "related literature probably/political framing in case we use it/s00799-018-0261-y.pdf",
-    "related literature probably/political framing in case we use it/framing in online news.pdf",
-    "related literature probably/political framing in case we use it/political view identification.pdf",
-    "related literature actual/CRFPOST_Part_of_Speech_Tagger_for_Filipi.pdf",
-    "related literature probably/political framing in case we use it/Validating_Policy_Frame_Media_Bias_in_Philippine_Online_News.pdf",
-    "related literature actual/NER deep learning.pdf",
-    "related literature actual/Korpusik_Interspeech-2019.pdf",
-    "related literature actual/Latest RNN model.pdf",
-    "related literature actual/Named_Entity_Recognition_Using_BERT_BiLSTM_CRF_for_Chinese_Electronic_Health_Records.pdf",
-    "related literature actual/source list for midterms.md",
-    "related literature actual/RRL overview.canvas",
-    "related literature actual/chapter 1 notes/Pos tagging centered.md",
-    "related literature actual/chapter 1 notes/Overview.md",
-    "related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md"
+    "related literature actual/Named-Entity Recognizer Filipino.pdf",
+    "related literature actual/chapter 1 notes/Uses of NER in general.md"
   ]
 }
