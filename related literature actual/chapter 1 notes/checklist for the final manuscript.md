@@ -3,7 +3,7 @@
 - [x] acknowledgement
 - [ ] POS tagger context?
 - [ ] No pronouns and personification
-- [ ] RQ
-- [ ] Group ideas
+- [x] RQ
+- [x] Group ideas
 - [ ] get rid of APA and reorganize the story about BERTS and LSTMS
 - [ ] Table of Contents

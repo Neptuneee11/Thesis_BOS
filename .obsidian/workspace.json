@@ -6,7 +6,7 @@
       {
         "id": "741ca4271a0efe06",
         "type": "tabs",
-        "dimension": 68.07324840764332,
+        "dimension": 48.88535031847134,
         "children": [
           {
             "id": "c8ec4a94d705d594",
@@ -24,7 +24,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "related literature probably/s10462-022-10197-2.pdf"
+                "file": "related literature actual/Named_Entity_Recognition_Using_BERT_BiLSTM_CRF_for_Chinese_Electronic_Health_Records.pdf"
               }
             }
           }
@@ -34,7 +34,7 @@
       {
         "id": "5bb375f0b3072633",
         "type": "tabs",
-        "dimension": 31.926751592356688,
+        "dimension": 51.11464968152867,
         "children": [
           {
             "id": "5a2db793b0e20986",
@@ -42,13 +42,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "related literature actual/chapter 1 notes/checklist for the final manuscript.md",
+                "file": "related literature actual/chapter 1 notes/Uses of NER in general.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e68801760b5e8392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "related literature actual/chapter 1 notes/Uses of NER in general.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "related literature actual/chapter 1 notes/checklist for the final manuscript.md",
+                "file": "related literature actual/Named_Entity_Recognition_Using_BERT_BiLSTM_CRF_for_Chinese_Electronic_Health_Records.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "related literature actual/chapter 1 notes/checklist for the final manuscript.md",
+                "file": "related literature actual/Named_Entity_Recognition_Using_BERT_BiLSTM_CRF_for_Chinese_Electronic_Health_Records.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "related literature actual/chapter 1 notes/checklist for the final manuscript.md"
+                "file": "related literature actual/Named_Entity_Recognition_Using_BERT_BiLSTM_CRF_for_Chinese_Electronic_Health_Records.pdf"
               }
             }
           }
@@ -175,13 +188,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a2db793b0e20986",
+  "active": "20e98ac91423bc90",
   "lastOpenFiles": [
-    "related literature actual/chapter 1 notes/Uses of NER in general.md",
-    "related literature actual/chapter 1 notes/checklist for the final manuscript.md",
     "related literature probably/s10462-022-10197-2.pdf",
-    "related literature probably/1-s2.0-S0306457321000157-main.pdf",
+    "related literature actual/chapter 1 notes/Uses of NER in general.md",
     "related literature actual/chapter 1 notes/Ontology and linguistics.md",
+    "related literature actual/chapter 1 notes/checklist for the final manuscript.md",
+    "related literature probably/1-s2.0-S0306457321000157-main.pdf",
     "related literature actual/Named-Entity Recognizer Filipino.pdf"
   ]
 }
