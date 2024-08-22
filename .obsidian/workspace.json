@@ -6,15 +6,16 @@
       {
         "id": "741ca4271a0efe06",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "c8ec4a94d705d594",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "related literature actual/Named-Entity Recognizer Filipino.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -24,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Consultations and events/Thesis presentation.md",
+                "file": "part 1/Consultations and events/Thesis presentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 374.5
   },
   "right": {
     "id": "b50b682bc9f3c328",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consultations and events/Thesis presentation.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consultations and events/Thesis presentation.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consultations and events/Thesis presentation.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,15 +158,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20e98ac91423bc90",
+  "active": "cd1e5280ea30c713",
   "lastOpenFiles": [
-    "related literature actual/Named_Entity_Recognition_Using_BERT_BiLSTM_CRF_for_Chinese_Electronic_Health_Records.pdf",
-    "Consultations and events/Thesis presentation.md",
-    "related literature probably/s10462-022-10197-2.pdf",
-    "related literature actual/chapter 1 notes/Uses of NER in general.md",
-    "related literature actual/chapter 1 notes/Ontology and linguistics.md",
-    "related literature actual/chapter 1 notes/checklist for the final manuscript.md",
-    "related literature probably/1-s2.0-S0306457321000157-main.pdf",
-    "related literature actual/Named-Entity Recognizer Filipino.pdf"
+    "part 2/sources and journals",
+    "part 2/literature probably",
+    "part 2",
+    "part 1/tutorialAssets/getOutOfNew.png",
+    "part 1/related literature actual/Named-Entity Recognizer Filipino.pdf",
+    "part 1",
+    "part 1/related literature actual/A_Method_for_Resume_Information_Extraction_Using_BERT-BiLSTM-CRF.pdf",
+    "part 1/related literature actual/Arabic_Named_Entity_Recognition_A_BERT_B.pdf",
+    "part 1/related literature actual/Korpusik_Interspeech-2019.pdf",
+    "part 1/related literature actual/Existing databases/1909.02670.pdf",
+    "part 1/related literature actual/Existing databases/18Pre-trainedLanguageModelsforTagalogwithMulti-sourceData.pdf",
+    "part 1/related literature actual/PACLIC_31_14.pdf",
+    "part 1/related literature actual/chapter 1 notes/Pos tagging centered.md",
+    "part 1/related literature actual/chapter 1 notes/POS Tagging approaches, a comparison.md",
+    "part 1/related literature actual/chapter 1 notes/Ontology and linguistics.md",
+    "part 1/related literature actual/chapter 1 notes/checklist for the final manuscript.md",
+    "part 1/related literature actual/chapter 1 notes/Uses of NER in general.md",
+    "part 1/related literature actual/source list for midterms.md",
+    "part 1/related literature actual/RRL overview.canvas",
+    "part 1/Consultations and events/Thesis presentation.md"
   ]
 }
